@@ -1,4 +1,4 @@
-### Hi there, I'm Rafael 👋
+### Hello there, I'm Rafael <img src="https://raw.githubusercontent.com/rafaelmgr12/rafaelmgr12/master/wave.gif" width="30px">
 
 ## I'm a Computational Physicist, Cosmologist and Amateur Developer!
 - 🔭 I’m currently working on a [Bingo Telescope][website]!
