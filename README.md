@@ -27,10 +27,11 @@
 
 
 <br />
-<br />
 
 
 [website]: https://www.bingotelescope.org/en/
 [twitter]: https://twitter.com/rafaelmgr94
 [instagram]: https://instagram.com/rafaelmat02
 [linkedin]: https://www.linkedin.com/in/rafael-matheus-gon%C3%A7alaves-ribeiro-5321591a4/
+
+![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelmgr12&show_icons=true&hide_border=true)
