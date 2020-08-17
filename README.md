@@ -3,6 +3,7 @@
 ## I'm a Computational Physicist, Cosmologist and Amateur Developer!
 - 🔭 I’m currently working on a [Bingo Telescope][website]!
 - 🌱 I’m currently doing a master's degree at USP
+- 📫 How to reach me: rafaelmgr@usp.br
 
 ## 🔧 Languages & Tools
 <code><img height = "20" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png><code>
@@ -34,4 +35,12 @@
 [instagram]: https://instagram.com/rafaelmat02
 [linkedin]: https://www.linkedin.com/in/rafael-matheus-gon%C3%A7alaves-ribeiro-5321591a4/
 
-![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaelmgr12&show_icons=true&hide_border=true)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/rafaelmgr12/rafaelmgr12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/rafaelmgr12/rafaelmgr12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
