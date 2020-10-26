@@ -1,55 +1,36 @@
-### Hello there, I'm Rafael <img src="https://raw.githubusercontent.com/rafaelmgr12/rafaelmgr12/master/wave.gif" width="30px">
+### Hi there 👋, I'm Rafael
+#### I'm a Computational Physicist, Cosmologist and Amateur Developer!
+I'm graduate student, in University of São Paulo. I'm currently research in the area of Cosmology more precisely the  Dark sector cosmology and the 21 cm line of the HI. I'm also teaching assistant in Virtual University of São Paulo(UNIVESP) and in my free time I spend in make codings
 
-## I'm a Computational Physicist, Cosmologist and Amateur Developer!
-- 🔭 I’m currently working on a [Bingo Telescope][website]!
-- 🌱 I’m currently doing a master's degree at USP
-- 📫 How to reach me: rafaelmgr@usp.br
 
-## 🔧 Languages & Tools
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-<br />
 
-## Deep Learning and Machine Learning tools
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<br />
+Skills: <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+        <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+        <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
-## &#x1f4c8; GitHub Stats
+- 🔭 I’m currently working on [Bingo Telescope](ttps://www.bingotelescope.org/en/) 
+- 🌱 I’m currently learning Full-Stack,Java and Docker
+- 👯 I’m looking to collaborate on ML and Web/App projects 
+- 🤔 I’m looking for help with C++ 
+- 💬 Ask me about Anything 
+- 📫 How to reach me: rafaelmgr12@usp.br 
 
-<a href="https://github.com/rafaelmgr12/rafaelmgr12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgr12&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/rafaelmgr12/rafaelmgr12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelmgr12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rafael's GitHub Stats" />
-</a>
 
-<br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafaelmgr12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafaelmat02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rafaelmgr94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/usp.br/rafael-ribeiro)  
 
-### Connect with me:
+[![trophy](https://github-profile-trophy.vercel.app/?username=rafaelmgr12)](https://github.com/ryo-ma/github-profile-trophy)
 
-[<img align="left" alt="rafaelmgr12.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rafaelmgr12 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rafaelmgr12 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="rafaelmgr12 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgr12)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmgr12&show_icons=true&count_private=true)  
 
-[website]: https://www.bingotelescope.org/en/
-[twitter]: https://twitter.com/rafaelmgr94
-[instagram]: https://instagram.com/rafaelmat02
-[linkedin]: https://www.linkedin.com/in/rafael-matheus-gon%C3%A7alaves-ribeiro-5321591a4/
+![GitHub metrics](https://metrics.lecoq.io/rafaelmgr12)  
 
-<br />
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rafaelmgr12)  
 
+![Profile views](https://gpvc.arturio.dev/rafaelmgr12)  
