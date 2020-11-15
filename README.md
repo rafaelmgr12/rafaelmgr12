@@ -22,8 +22,4 @@ Skills:<p align="left"> <a href="https://www.cprogramming.com/" target="_blank">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmgr12&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/rafaelmgr12)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rafaelmgr12)  
-
 ![Profile views](https://gpvc.arturio.dev/rafaelmgr12)  
