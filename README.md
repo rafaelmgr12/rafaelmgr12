@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Rafael
-#### I'm a Computational Physicist, Cosmologist and Amateur Developer!
-I'm graduate student, in University of São Paulo. I'm currently research in the area of Cosmology more precisely the  Dark sector cosmology and the 21 cm line of the HI. I'm also teaching assistant in Virtual University of São Paulo(UNIVESP) and in my free time I spend in make codings
+#### I'm a Computational Physicist, Cosmologist, and Data Scientist!
+I am a graduate student at the University of São Paulo. Currently I'm researching in the Cosmology area more precisely, I do optical data analysis for reconstruction of galaxies Redshifts used in machine learning. I am also teaching assistant in the Virtual University of São Paulo (UNIVESP) and on the side I'm doing coding.
 
 
 
@@ -10,8 +10,8 @@ I'm graduate student, in University of São Paulo. I'm currently research in the
 
 
 - 🔭 I’m currently working on [Bingo Telescope](https://www.bingotelescope.org/en/) 
-- 🌱 I’m currently learning Full-Stack,Java and Docker
-- 👯 I’m looking to collaborate on ML and Web/App projects 
+- 🌱 I’m currently learning Full-Stack and Data Science
+- 👯 I’m looking to collaborate on ML and Web/Mobile projects 
 - 🤔 I’m looking for help with C++ 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: rafaelmgr12@usp.br 
