@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm Rafael
-#### I'm a Computational Physicist, Cosmologist, and Data Scientist!
+#### I'm a Computational Physicist, Cosmologist,Data Analyst and Data Scientist!
 I am a graduate student at the University of São Paulo. Currently I'm researching in the Cosmology area more precisely, I do optical data analysis for reconstruction of galaxies Redshifts used in machine learning. I am also teaching assistant in the Virtual University of São Paulo (UNIVESP) and on the side I'm doing coding.
 
 
