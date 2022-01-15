@@ -1,6 +1,7 @@
 ### Hello there 👋, I'm Rafael
 #### I'm a Computational Physicist, Cosmologist,Data Analyst and Data Scientist!
-I am a graduate student at the University of São Paulo. Currently I'm researching in the Cosmology area more precisely, I do optical data analysis for reconstruction of galaxies Redshifts used in machine learning. I am also teaching assistant in the Virtual University of São Paulo (UNIVESP) and on the side I'm doing coding.
+
+I am working at Tendências Consultoria, which I conduct data analysis and construct machine learning models to estimate a wide variety of variables. Also, I am a graduate student at the University of São Paulo. Currently, I'm researching in the Cosmology area. More precisely, I do optical data analysis to reconstruct photometric redshift from galaxies using machine learning.
 
 
 
@@ -9,12 +10,11 @@ I am a graduate student at the University of São Paulo. Currently I'm researchi
 
 
 
-- 🔭 I’m currently working on [Bingo Telescope](https://www.bingotelescope.org/en/) 
-- 🌱 I’m currently learning Full-Stack and Data Science
+- 🔭 I’m currently working on [Tendências Consultoria](https://tendencias.com.br/) 
+- 🌱 I’m currently learning Full-Stac.
 - 👯 I’m looking to collaborate on ML and Web/Mobile projects 
-- 🤔 I’m looking for help with C++ 
 - 💬 Ask me about Anything 
-- 📫 How to reach me: rafaelmgr12@usp.br 
+- 📫 How to reach me: ribeirorafaelmatheus@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafaelmgr12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rafaelmat02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rafaelmgr94)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/usp.br/rafael-ribeiro)  
