@@ -1,5 +1,5 @@
 ### Hello there 👋, I'm Rafael
-#### I'm a Computational Physicist, Cosmologist,Data Analyst and Data Scientist!
+#### I'm a Computational Physicist, Cosmologist and Data Scientist!
 
 I am working at Tendências Consultoria, which I conduct data analysis and construct machine learning models to estimate a wide variety of variables. Also, I am a graduate student at the University of São Paulo. Currently, I'm researching in the Cosmology area. More precisely, I do optical data analysis to reconstruct photometric redshift from galaxies using machine learning.
 
@@ -11,9 +11,9 @@ I am working at Tendências Consultoria, which I conduct data analysis and const
 
 
 - 🔭 I’m currently working on [Tendências Consultoria](https://tendencias.com.br/) 
-- 🌱 I’m currently learning Full-Stac.
-- 👯 I’m looking to collaborate on ML and Web/Mobile projects 
-- 💬 Ask me about Anything 
+- 🌱 I’m currently learning Full-Stacl.
+- 👯 I’m looking to collaborate on Machine Learning and Web/Mobile projects 
+- 💬 Ask me about  **Physics, Python, Machine Learning/Deep Learning and Data Science** 
 - 📫 How to reach me: ribeirorafaelmatheus@gmail.com
 
 
