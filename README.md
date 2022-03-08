@@ -11,7 +11,7 @@ I am working at Tendências Consultoria, which I conduct data analysis and const
 
 
 - 🔭 I’m currently working on [Tendências Consultoria](https://tendencias.com.br/) 
-- 🌱 I’m currently learning Full-Stacl.
+- 🌱 I’m currently learning Front-end and Back-end.
 - 👯 I’m looking to collaborate on Machine Learning and Web/Mobile projects 
 - 💬 Ask me about  **Physics, Python, Machine Learning/Deep Learning and Data Science** 
 - 📫 How to reach me: ribeirorafaelmatheus@gmail.com
