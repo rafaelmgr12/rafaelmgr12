@@ -21,7 +21,7 @@ I am working at Tendências Consultoria, which I conduct data analysis and const
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafaelmgr12)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgr12&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmgr12&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmgr12&show_icons=true&count_private=true)  
 
 ![Profile views](https://gpvc.arturio.dev/rafaelmgr12)  
