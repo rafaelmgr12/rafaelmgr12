@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">I'm a Computational Physicist, Data Scientist and Software Developer</h3>
+<h3 align="center">I'm a Data Scientist and Software Engineer</h3>
 
 I am working at Tendências Consultoria, where I conduct data analysis, construct machine learning models and develop algorithms and software solutions. Also, I am a graduate student at the University of São Paulo. Currently, I'm researching in the Cosmology area. I do optical data analysis to reconstruct photometric redshift from galaxies using machine learning.
 
