@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">I'm a Data Scientist and Software Engineer</h3>
 
-I am working at Tendências Consultoria, where I conduct data analysis, construct machine learning models and develop algorithms and software solutions. Also, I am a graduate student at the University of São Paulo. Currently, I'm researching in the Cosmology area. I do optical data analysis to reconstruct photometric redshift from galaxies using machine learning.
+My name is Rafael and I'm a Software Engineer. I work with data analysis, machine learning and software development. My interests are in backend, frontend, mobile and Machine Learning. I love coffee and programming.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmgr12&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmgr12" /> </p>
 
