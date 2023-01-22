@@ -10,10 +10,9 @@ My name is Rafael and I'm a Software Engineer. I work with data analysis, machin
 
 - 🌱 I’m currently learning Go and Java for Web
 
-- 👯 I’m looking to collaborate on **Machine Learning and Web/Mobile Development**
+- 👯 I’m looking to collaborate on **Machine Learning and Web Development**
 
-- 👨‍💻 All of my projects are available at [rafaelr.dev](rafaelr.dev)
-
+- 👨‍💻 All of my projects are available [here](https://github.com/rafaelmgr12/my-cool-projects)
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ribeirorafaelmatheus@gmail.com**
