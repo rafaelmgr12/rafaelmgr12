@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">I'm a Data Scientist and Software Engineer</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 My name is Rafael and I'm a Software Engineer. I work with data analysis, machine learning and software development. My interests are in Backend, Frontend, and Machine Learning. I love coffee and programming.
 
