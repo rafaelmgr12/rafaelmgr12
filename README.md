@@ -8,16 +8,20 @@ My name is Rafael and I'm a Software Engineer. I work with data analysis, machin
 
 - 🔭 I’m currently working on [Tendências Consultoria Integrada](https://www.tendencias.com.br/)
 
-- 🌱 I’m currently learning Go and Java for Web
-
-- 👯 I’m looking to collaborate on **Machine Learning and Web Development**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/rafaelmgr12/my-cool-projects)
+
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ribeirorafaelmatheus@gmail.com**
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1nmRL2EnmlHeyzoPMk-cUbOdolUzNYr9l/view?usp=sharing)
+
+### 📘 Latest books: 
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organization](https://www.amazon.com.br/Devops-Handbook-World-Class-Reliability-Organizations/dp/1950508404/ref=asc_df_1950508404/?tag=googleshopp00-20&linkCode=df0&hvadid=379726347250&hvpos=&hvnetw=g&hvrand=5524970625868687936&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1187802203476&psc=1)
+- [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://a.co/d/i2Z9ULY)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://a.co/d/8HBX6VP)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
