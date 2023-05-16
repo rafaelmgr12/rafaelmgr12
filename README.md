@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-My name is Rafael and I'm a Software Engineer. I work with data analysis, machine learning and software development. My interests are in Backend, Frontend, and Machine Learning. I love coffee and programming.
+Hello, my name is Rafael. I'm a software engineer who works with Backend development, data, and machine learning. I have a degree in computational physics. I enjoy reading, writing, and programming. And of course, creating software that is simple yet impactful.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmgr12&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmgr12" /> </p>
 
