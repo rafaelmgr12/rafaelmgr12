@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-Hello, my name is Rafael. I'm a software engineer who works with Backend development, data, and machine learning. I have a degree in computational physics. I enjoy reading, writing, and programming. And of course, creating software that is simple yet impactful.
+👋 Hello, my name is Rafael. I'm a software engineer specialized in Backend development, data, and machine learning. With a background in computational physics, I've always been drawn to the intricate dance between numbers and real-world applications. My tools of choice range from Python and Go to Terraform, but regardless of the tool, my goal remains the same: crafting software that's both simple and impactful.
+
+📚 Outside of coding, I'm an avid reader and writer. There's something about diving into a good book or jotting down my thoughts that just feels right. And yes, I'm that guy who can turn a cup of coffee into lines of code. Want to chat or collaborate? Let's connect!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmgr12&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmgr12" /> </p>
 
