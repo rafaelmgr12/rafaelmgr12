@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">I'm a Software Engineer</h3>
 
-👋 Hi, my name is Rafael. I enjoy writing code and 💻 solving problems. I also enjoy writing on my [blog](https://medium.com/@rgribeiro) and 📚 learning new things. Currently, I am focused on expanding my knowledge of distributed systems, concurrency, and software architecture.
+👋 Hello, there. I enjoy writing code and 💻 solving problems. I also enjoy writing on my [blog](https://medium.com/@rgribeiro) and 📚 learning new things. Currently, I am focused on expanding my knowledge of distributed systems, concurrency, and software architecture.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmgr12&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmgr12" /> </p>
 
