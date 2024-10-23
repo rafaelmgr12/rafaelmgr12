@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelmgr12&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelmgr12" /> </p>
 
-- 🔭 I’m currently working on [Tendências Consultoria Integrada](https://www.tendencias.com.br/)
+- 🔭 I’m currently working on [Ebanx](https://www.ebanx.com/en/)
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1UgtXKJTh41twLwrWjsC0vspHb74mEHcB/view?usp=sharing)
 
